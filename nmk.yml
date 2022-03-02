@@ -1,0 +1,4 @@
+# FIXME: At the moment, these refs will work only when cloned as nmk project sub-module
+refs:
+    - ../../plugins/base/plugin.yml
+    - ../../plugins/python/plugin.yml
