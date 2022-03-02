@@ -9,5 +9,6 @@
 Jinja2
 nmk
 black
+isort
 
 
