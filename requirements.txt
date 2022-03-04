@@ -19,5 +19,7 @@ flake8-comprehensions
 flake8-string-format
 flake8-pep3101
 flake8-bugbear
+setuptools
+wheel
 
 
