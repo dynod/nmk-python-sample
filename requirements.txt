@@ -21,5 +21,8 @@ flake8-pep3101
 flake8-bugbear
 setuptools
 wheel
+pytest-xdist
+pytest-cov
+pytest-multilog
 
 
