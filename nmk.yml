@@ -1,6 +1,6 @@
-# FIXME: At the moment, these refs will work only when cloned as nmk project sub-module
 refs:
     - pip://nmk-python!plugin.yml
+    - pip://nmk-vscode!plugin.yml
 
 config:
     pythonPackage: mymodule
